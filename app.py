@@ -95,7 +95,10 @@ st.markdown("""
 if "history" not in st.session_state:
     st.session_state.history = []
 if "api_key" not in st.session_state:
-    st.session_state.api_key = ""
+    try:
+        st.session_state.api_key = st.secrets["ANTHROPIC_API_KEY"]
+    except:
+        st.session_state.api_key = ""
 if "current_report" not in st.session_state:
     st.session_state.current_report = None
 
