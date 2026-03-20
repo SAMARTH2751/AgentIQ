@@ -10,7 +10,7 @@
 
 **A production-grade demonstration of Agentic AI — 4 specialized AI agents that collaboratively research, analyze, and write comprehensive reports on any topic.**
 
-[Live Demo](#-live-demo) · [Quick Start](#-quick-start) · [Architecture](#-architecture) · [Features](#-features)
+- [Live Demo](https://agentiq-ybdgta35czxjjeewrd6je8.streamlit.app/) · [GitHub](https://github.com/SAMARTH2751/AgentIQ) · [Architecture](#-architecture) · [Features](#-features)
 
 </div>
 
@@ -205,11 +205,10 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
-**[Your Name]**
-- 🎓 B.Tech CSE — [Your College], Batch [Year]
-- 📧 [your.email@example.com]
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
+**[Samarth Shinde]**
+- 🎓 B.Tech CSE — [Lovely Professional University], Batch [2022-2026]
+- 📧 [samarth002751@gmail.com.com]
+- 🐙 [GitHub](https://github.com/SAMARTH2751)
 
 ---
 
@@ -218,12 +217,9 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [Anthropic](https://anthropic.com) for the Claude API
 - [Streamlit](https://streamlit.io) for the amazing web framework
 - Research inspired by: [ReAct (Yao et al., 2023)](https://arxiv.org/abs/2210.03629), [AutoGen (Wu et al., 2023)](https://arxiv.org/abs/2308.08155)
-- Guided by: **[Prof. Name]** — CSE435 Course Instructor
 
 ---
 
 <div align="center">
 ⭐ If this project helped you, please consider giving it a star!
 
-*Made with ❤️ for CSE435 Comprehensive Seminar*
-</div>
